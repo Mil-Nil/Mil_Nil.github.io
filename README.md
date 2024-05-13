@@ -1,3 +1,5 @@
-# Mil_Nil.github.io
+# 目的
 Webサイト制作を学びながら実践。
-https://github.com/Mil_Nil.github.io
+
+URL
+https://mil-nil.github.io/Mil_Nil.github.io/
