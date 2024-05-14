@@ -13,3 +13,19 @@ kbd {
 	padding: 2px 4px;
 	white-space: nowrap;
 }
+
+iframe {
+	border: 1px solid black;
+	width: 100%;
+	/*
+	takes precedence over the width set with the HTML width attribute
+	*/
+}
+
+#w-break {
+	background-color: white;
+	overflow: hidden;
+	resize: horizontal;
+	width: auto;
+	border: 1px solid #999;
+}
