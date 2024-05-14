@@ -2,5 +2,5 @@
 Webサイト作成を学びながら実践していきます。
 
 URL
-https://mil-nil.github.io/Mil_Nil/
+https://mil-nil.github.io/main/
 
