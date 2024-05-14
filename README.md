@@ -1,5 +1,5 @@
 # 目的
-Webサイト制作を学びながら実践。
+Webサイト作成を学びながら実践していきます。
 
 URL
 https://mil-nil.github.io/Mil_Nil.github.io/
